@@ -94,6 +94,7 @@ li.last {
     font-size: 20px;
 }
 
+
 @media (max-width: 600px) {
     .navigation {
         flex-direction: column;
